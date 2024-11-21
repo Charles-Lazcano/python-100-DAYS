@@ -1,3 +1,4 @@
+# Day 2 100 days of python
 print("Welcome to the tip calculator!")
 bill = float(input("What was the total bill? $"))
 tip = int(input("What percentage tip would you like to give? 10 15 20 "))
